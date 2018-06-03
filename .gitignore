@@ -1,0 +1,13 @@
+# GIT
+.git/
+
+# Java
+*.class
+# packages 
+*.jar
+*.war
+*.ear
+
+Thumbs.db
+.DS_Store
+.idea
